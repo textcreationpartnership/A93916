@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by the English against the Dutch, and the pursuing of the Dutch fleets, by General Blake and Sir George Ayscue, with one hundred and eight Men of War, towards the Downs, and their resolution to engage them between Dover and Calice. The manner how Sir George Ascue (with great policy) obtained the wind: the number sunk and taken; and two gallant ships surprized by Captain Stoaks, laden with gold, and elephants teeth. Also, the number of ships coming up the river of Thames for London; richly laden from the East-Indies, the Straights, Virginia, and the Barbadoes. Die Septembr. 27. 1652. / Extracted out of the original papers, sent from Capt. Stoakes, to the honorable Councel of State, on Sunday last, Sep. 26.</title>
+            <author>Stoakes, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93916</idno>
+            <idno type="STC">Wing S5691</idno>
+            <idno type="STC">Thomason E675_22</idno>
+            <idno type="STC">ESTC R206772</idno>
+            <idno type="EEBO-CITATION">99865878</idno>
+            <idno type="PROQUEST">99865878</idno>
+            <idno type="VID">118130</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118130)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E675[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by the English against the Dutch, and the pursuing of the Dutch fleets, by General Blake and Sir George Ayscue, with one hundred and eight Men of War, towards the Downs, and their resolution to engage them between Dover and Calice. The manner how Sir George Ascue (with great policy) obtained the wind: the number sunk and taken; and two gallant ships surprized by Captain Stoaks, laden with gold, and elephants teeth. Also, the number of ships coming up the river of Thames for London; richly laden from the East-Indies, the Straights, Virginia, and the Barbadoes. Die Septembr. 27. 1652. / Extracted out of the original papers, sent from Capt. Stoakes, to the honorable Councel of State, on Sunday last, Sep. 26.</title>
+                  <author>Stoakes, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Geo: Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 28.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ayscue, George, --  Sir, fl. 1646-1671.</term>
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Blala, Robert, 1599-1657.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118130:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORY obtained by the ENGLISH Againſt the DUTCH, And the purſuing of the Dutch Fleets, by General Blake and Sir George Ayſcue, with one hun<g ref="char:EOLhyphen"/>dred and eight Men of War, towards the Downs, and their Reſolution to engage them between Dover and Calice.</p>
+            <p>The manner how Sir George Aſcue (with great policy) obtained the wind: The num<g ref="char:EOLhyphen"/>ber ſunk and taken; And two gallant ſhips ſur<g ref="char:EOLhyphen"/>prized by Captain Stoaks, laden with Gold, and Elephants Teeth.</p>
+            <p>Alſo, the number of ſhips coming up the River of Thames for London; richly laden from the Eaſt-Indies, the Straights, Virginia, and the Barbadoes.</p>
+            <q>
+               <bibl>
+                  <hi>Die Septemb<hi rend="sup">r</hi>. 27. 1652.</hi>
+               </bibl>
+               <p>Extracted out of the Original Papers, ſent from Capt. <hi>Stoakes,</hi> to the Honorable Councel of State, on Sunday laſt, Sep. <hi>26.</hi>
+               </p>
+            </q>
+            <p>Imprinted at London for Geo: Horton, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118130:2"/>
+            <pb n="3" facs="tcp:118130:2"/>
+            <head>A great Victory obtained by the Engliſh againſt the Dutch; the particulars there<g ref="char:EOLhyphen"/>of; and the number of ſhips taken, with 700 pieces of Ordnance, all their Arms, Ammunition, Bag and Baggage, and great ſtore of Gold and Oar.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">U</seg>Pon the advance of Gen. Blake and Sir George Ayſcue with a fleet conſiſting of 108 gallant ſail, towards the Downes, they cleered the whole Weſtern Channel before them by ſail<g ref="char:EOLhyphen"/>ing, as by order within ſhot of each other, by which meanes we cleered all from the Coaſt of France to the Coaſt of England, almoſt as if a bridge had been made over the Channel; and thought to have fought the Dutch fleet at the ſame time; but they gave us the go-by, much like that of the Scots King, when he made an inroad into England; and are now ſailed towards the Downs: where<g ref="char:EOLhyphen"/>opon information being given thereof by the Aſſurance Scout, who had forced her paſſage even through the thick
+<pb n="4" facs="tcp:118130:3"/>eſt of Action from five Dutch-men of War, the Generall hoyſed ſayl after them; but the wind blowing ſtiff upon the North point, could not reach ſo much as the Enemies Rear-guard; but on the 25 inſtant, we had intelligence of their ſtancing over to the Coaſt of France; whereupon the General and Sir Geo: Ayſcue bare up towards the Downs with a moſt potent and invincible Armado, conſiſting of 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 ſtout Men of War, where of twelve were Merchants ſhips, that is, the five from the Eaſt-Indies, two from the Straights, two from Lisbone in Spain, two from Virginia, and one from Barbadoes, all which are ſent up the River for London.</p>
+            <p>But not long had his Excellency anchor'd upon thoſe Neptune ſtreames, but he received Advertiſements from the Diamond, and other Frigats that had been ſcouting forth, that a great Fleet of Hollanders, conſiſting of at leaſt two hundred ſayl was riding between Dover and Calice; whereupon Major Bourn was commanded forth with the great Andrew, the nimble Saphir, the famous Garland, and 27 other ſtout Men of War, as a Forlorn to the Navy, to engage the Enemy, if poſſible.</p>
+            <p>After him ſailed Sir George Ayſcue with 35 ſail, as a Reſerve; And within ſhot of the ſaid Squadron the Ge<g ref="char:EOLhyphen"/>neral bare up with the great ſhip, called the Common-Wealth, and the reſt of the fleet, flanking Sir George; the Dutch perceiving their reſolute motion, endeavoured to get Calice-point, but Sir George, to prevent them, bare up to the Lee-ward, by which meanes he got the wind of the Dutch fleet, and hath now engaged them; The Zealand ſhips lye at the head of their fleet, and ſeem to be very re<g ref="char:EOLhyphen"/>ſolute for action; Vice-Admiral Evarſon hath atrempted to fire ſome of our ſhips, but was prevented, for Major Bourn commanding the Guard that night, received Adver<g ref="char:EOLhyphen"/>tiſements
+<pb n="5" facs="tcp:118130:3"/>from one of his Scouts, of the neer approach of ſome of the enemies ſhips, prepared to receive them, which he ſo effectually performed, That two of his fire<g ref="char:EOLhyphen"/>ſhips were ſoon way laid, and the reſt diſſipated: Inſo<g ref="char:EOLhyphen"/>much that Dewitte and Ruttyer endeavors to deoline en<g ref="char:EOLhyphen"/>gagement; but 'tis a thing impoſſible; for we now have them pretty faſt upon the hug, and queſtion not (by di<g ref="char:EOLhyphen"/>vine aſſiſtance) but to give them a ſudden turn; by reaſon they are much divided, having diverſity of opinions, and man'd with Engliſh, Flemins, Soots, Walloons, Switzers, and Germans: This great blow is ſuddenly expected, yet ſomething further I ſhould have inſiſted on; but I am forced to draw to a period, by reaſon the Packet boat is fallin off, and our ſhips ready to ingage.</p>
+            <p>
+               <hi>Aboard the Ruby, Septemb.</hi> 25. 2652.</p>
+            <p>As touching our further victorious ſucceſs againſt the Hollander, it is confirmed by Letters from Captain Stoaks (Commander of the Dragon) to the Councel of State, and having diſcovered two ſail upon the coaſt of France, made up to them, and found them to have Swediſh colours, but coming aboard them, he diſcovered them to be Guinny ſhips laden with Gold, Oar, and Elephants Teeth, and ſe<g ref="char:EOLhyphen"/>veral Letters directed to Amſterdam, and other places in Holland, which with other circumſtances gave cauſe to believe, that the lading of the ſaid Veſſels belonged to the Dutch, whereupon the Captain brought the ſaid ſhips in<g ref="char:EOLhyphen"/>to Plymouth, where they now remain: The Officers of theſe prize ſhips ſay, that the Gold, Oar, and Elephants Teeth, and other lading therein, are worth about fourſcore thouſand pounds: The ſaid Captain likewiſe took a Pick<g ref="char:EOLhyphen"/>roon of 24 Guns, and 24 men, which he likewiſe brought into Harbor.</p>
+            <pb n="6" facs="tcp:118130:4"/>
+            <p>By an Expreſs from Dover, thus: The Dutch fleet under Dewitte came in ſight of this Town at the back of Goodwin on the 10. inſtant; and on the 11, 12, and 13, ply<g ref="char:EOLhyphen"/>ed to the Weſtward; the 14 they lay between Calais and Bulloin. The 15 they came on this ſide with 6 Frigats, and gave chace to a Sandwich Pink, but ſhe got ſafe into the Downs. The 16 Dewitte with about 30 ſail came to this ſide again, having gotten ſight of 8 ſail coming to the Weſtward, bore up to them, and between Foulſtone and this town, put the Swan Frigat on ſhore, and 3 Morlaix men laden with linnen cloth, and 2 or 3 ſmall men of this Town moſt of them aſhore. The Mary fly-boat, &amp; Brier-Frigat got paſt them to this Town, but exchanged ſeveral ſhot with them: Thus it pleaſed God to preſerve them all. Dewitte himſelf came very neer the ſhore, and let ſeveral broad ſides fly at our ſhips that were ſtranded, and Sand<g ref="char:EOLhyphen"/>gate Caſtle returned him ſeveral Guns. Towards night he ſtood over to the French coaſt to the reſt of the fleet; and that Tide all our ſhips got off, but not without ſome dammage, only the Swan frigat got a bulge, which made her unſerviceable at preſent. The 17, he lay at half ſea over betwixt Boleign and this Town. The 18, he came to the back of the Goodwin with 60 ſail, being reſolved to play ſome feats againſt the Engliſh, or elſe never to return into his own countrey.</p>
+            <p>De-witte is joyned with Ruttyer, having ſeventy of the greateſt ſhips that ever yet was ſet forth: Stout Evarſon of Zealand is Vice-Admiral, whoſe Mariners are famous, and were once accounted the moſt ſtouteſt enemy that e<g ref="char:EOLhyphen"/>ver ſailed upon the Seas. But truly Mr. Launſman, though you uſurp a priviledge upon ſmall game, the butter-box of your trifling honour may perchance melt away in a hot day with the Engliſh: For, know, that injuries in this
+<pb n="7" facs="tcp:118130:4"/>kind evermore prove like ſtones thrown up into the Ayr, they may towſe luſtily for a while, like the aſpiring ſound of a Trumpet, but at laſt they muſt of neceſſity fall down upon your ambition, to diſſolve the injuſtice of your im<g ref="char:EOLhyphen"/>perious ſpirits. They are grown ſo high and imperious, that they begin to truſs up poor Engliſh-men in ſeverall places, as a Faulcon does wild Ducks; eſpecially about the coaſt of Norfolk, where on Sunday the 12 inſtant, they ad<g ref="char:EOLhyphen"/>ventured into the very Harbor at Wells, and took away ſome Veſſels. This ſudden exploit cauſed divers Gentle<g ref="char:EOLhyphen"/>men, &amp; others, with their families to return higher into the countrey.</p>
+            <p>By an Expreſs from Yarmouth it is certified, That there is a fleet of 70 ſail of Collyers lye ready to be convoy'd for London; and that there is another great fleet alſo in a rea<g ref="char:EOLhyphen"/>dineſs at Newcaſtie, with 13 ſail of Iſland Veſſels of Capt. Worms fleet, but from him and the reſt we yet hear no news. We hear that col. Aires, and Doctor Chamberlain, being bound for Ireland, that through diſtreſs of weather, the Veſſel was in great danger by a ſtorm, and 'tis much feared the paſſengers are caſt away.</p>
+            <p>The Hollander hath agreed to ſend a Navy to the Eaſt-India, with Commiſſion, to deſtroy and depopulate thoſe places of the Engliſh; they are old excellent at the routing of you, in high lan<g ref="char:EOLhyphen"/>guage; but are not a little moved, that you have gotten ſo many conſiderable prizes from their Merchants.</p>
+            <p>From France they write, That the prodigious force and match<g ref="char:EOLhyphen"/>leſs valour of the Du. of York, cauſeth great admiration in the ene<g ref="char:EOLhyphen"/>mies Camp, who have felt wonderful and ſtrange exploits, and yet the vanquiſhed continually find his grace and favour; for upon beating up of ſome of the Spaniſh quarters, a French Colonel per<g ref="char:EOLhyphen"/>ſwaded him to uſe the benefit of the advantage which the darkneſſe of the night afforded him; No, no, ſaid he, It fits not me to hunt af<g ref="char:EOLhyphen"/>ter night-ſtoln Victories: <hi>Malo me fortunae poeniteat, quam victoriae pu<g ref="char:EOLhyphen"/>deat.</hi> I had rather repent me of my fortune, then be aſhamed of my Victory.</p>
+            <pb n="8" facs="tcp:118130:5"/>
+            <p>From the Navy further thus: We have received Ad<g ref="char:EOLhyphen"/>vertiſements from Genoa that eight of our ſhips, whereof four Men of War, and four Merchant men, have had a great diſpute with nine Dutchmen of War; and after a ſharp conflict, with great gallantry and reſolution perfor<g ref="char:EOLhyphen"/>med on both ſides, it pleaſed God to crown the Engliſh with Victory, and to deliver into their hands five of the enemies beſt ſhips, but three got off, though notwithſtan<g ref="char:EOLhyphen"/>ding they were much rent and torn; the other was ſunk: Theſe five, with thoſe two taken by Captain Stoaks, make up the whole number 47; wherein were found great ſtore of rich Merchandizes, Ammunition, and at leaſt ſeven hun<g ref="char:EOLhyphen"/>dred pieces of Ordnance. Which is a great weakning to the States of Holland; and no little diſcouragement to their Mariners, to ſee their own ſhips man'd forth againſt them.</p>
+            <argument>
+               <p>Theſe particulars from Captain Stoaks, were confirmed by a Letter to the Councel of State on Sunday laſt, be<g ref="char:EOLhyphen"/>ing the 26. of this inſtant September, 1652.</p>
+            </argument>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
